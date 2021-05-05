@@ -3,7 +3,7 @@
 #   author:		https://github.com/m0nkeyplay
 #   August 26, 2019 - original script written
 #   Updated April 23, 2020 - see README for updates
-#   Updated January 12, 2020 - because I saw typos and managed to change the way text is printee
+#   Updated January 12, 2020 - because I saw typos and managed to change the way text is printed
 #   Free to use
 #   Free to modify and make better
 #   ./hibp_check.py -h for help
